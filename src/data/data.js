@@ -2,6 +2,6 @@
 const name = "Liza";
 const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const image = "https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-hooks-jsx-lab/demo.png";
 
 export { name, city, image };
